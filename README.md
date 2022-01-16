@@ -1,3 +1,6 @@
+## IMPORTANT NOTE
+Make sure to set your API key on /src/App.js line No. 6 before running
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

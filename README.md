@@ -1,4 +1,4 @@
-## IMPORTANT NOTE
+# IMPORTANT NOTE
 Make sure to set your OpenWeatherMap API key on /src/App.js line No. 6 before running
 
 # Getting Started with Create React App
